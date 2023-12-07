@@ -10,3 +10,4 @@ const server = Bun.serve({
 
 console.log(`Bun version ${0}`, Bun.version)
 console.log(process.env.STARTUPMSG)
+console.log(process.env.SERVER)
