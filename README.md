@@ -1,5 +1,7 @@
 # bun-js-starter-course
 
+This is companion code for Section 2 (A Simple Bun Server - Exploring the API) to my bun JS course which you can find at: https://iamdev.net/courses/bun-js-for-devs-course/
+
 To install dependencies:
 
 ```bash
