@@ -1,6 +1,7 @@
-# bun-js-starter-course
+# bun-js-starter-course-section-2 (A Simple Bun Server - Exploring the API)
 
-This is companion code for Section 2 (A Simple Bun Server - Exploring the API) to my bun JS course which you can find at: https://iamdev.net/courses/bun-js-for-devs-course/
+This is companion code for Section 2 of my bun JS course which you can find at: https://iamdev.net/courses/bun-js-for-devs-course/
+In this section we create a very simple server and begin to explore some of buns native functionality.
 
 To install dependencies:
 
