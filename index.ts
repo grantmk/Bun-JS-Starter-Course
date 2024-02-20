@@ -1,6 +1,7 @@
 import figlet from "figlet";
 try {
-const serverDeets = Bun.file("serverdees.json")
+  const serverDeets = Bun.file("serverdeets.json")
+  console.log((await serverDeets.json()).version)
 } catch (err) {
   console.log(err)
 }
@@ -21,5 +22,3 @@ const server = Bun.serve({
 });
 
 console.log(`Bun version ${0}`, Bun.version)
-console.log(Bun.env.SERVERENDPOINT)
-console.log((await serverDeets.json()).version)
